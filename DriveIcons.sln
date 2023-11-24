@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveIcons", "DriveIcons\DriveIcons.csproj", "{1E2CA456-24F8-4535-A8CA-4C3E0F9C0EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2CA456-24F8-4535-A8CA-4C3E0F9C0EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2CA456-24F8-4535-A8CA-4C3E0F9C0EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2CA456-24F8-4535-A8CA-4C3E0F9C0EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2CA456-24F8-4535-A8CA-4C3E0F9C0EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D5AA594-B128-4987-B9E6-86098A45497C}
+	EndGlobalSection
+EndGlobal
