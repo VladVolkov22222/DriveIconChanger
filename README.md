@@ -37,7 +37,7 @@ This program is designed to change the icons of local disks.
 
 ### Image preparation.
 
-The program supports only .ico files. To get them from PNG, type "png in ico" in the search
+The program supports only .ico files. To get them from PNG, type "png to ico" in the search
 
 ![image](https://github.com/VladVolkov22222/DriveIconChanger/assets/119122824/8139a29b-4107-4dce-ac62-b77f5e877239)
 
